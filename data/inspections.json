@@ -1,0 +1,40 @@
+{
+  "inspections": [
+    {
+      "id": "INS-001",
+      "asset_id": "FE-001",
+      "asset_name": "مطفأة بودرة جافة",
+      "inspector_name": "المهندس خالد المنصور",
+      "date": "2024-05-20",
+      "result": "مطابق",
+      "checklist": [
+        {
+          "item": "ضغط المقياس سليم",
+          "pass": true
+        },
+        {
+          "item": "الخرطوم سليم",
+          "pass": true
+        }
+      ]
+    },
+    {
+      "id": "INS-002",
+      "asset_id": "FE-003",
+      "asset_name": "مطفأة رغوية",
+      "inspector_name": "سامي الحربي",
+      "date": "2024-05-15",
+      "result": "غير مطابق",
+      "checklist": [
+        {
+          "item": "ضغط المقياس سليم",
+          "pass": true
+        },
+        {
+          "item": "الخرطوم سليم",
+          "pass": false
+        }
+      ]
+    }
+  ]
+}
