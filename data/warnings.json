@@ -1,0 +1,22 @@
+{
+  "warnings": [
+    {
+      "id": "WRN-001",
+      "employee_name": "أحمد علي",
+      "violation": "مخالفة عدم ارتداء معدات الوقاية",
+      "severity": "عالية",
+      "status": "نشط",
+      "issued_date": "2024-05-15",
+      "duration_days": 30
+    },
+    {
+      "id": "WRN-002",
+      "employee_name": "محمد خالد",
+      "violation": "مخالفة التدخين في المنطقة المحظورة",
+      "severity": "متوسطة",
+      "status": "منتهي",
+      "issued_date": "2024-04-20",
+      "duration_days": 30
+    }
+  ]
+}
