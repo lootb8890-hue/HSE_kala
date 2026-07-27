@@ -1,0 +1,52 @@
+{
+  "assets": [
+    {
+      "id": "FE-001",
+      "type": "fire_extinguisher",
+      "name": "مطفأة بودرة جافة",
+      "subtype": "بودرة جافة (ABC)",
+      "location": "مبنى الإنتاج - الدور الأرضي",
+      "status": "سليم",
+      "last_inspection": "2024-05-20",
+      "next_inspection": "2024-06-20"
+    },
+    {
+      "id": "FE-002",
+      "type": "fire_extinguisher",
+      "name": "مطفأة ثاني أكسيد الكربون",
+      "subtype": "CO2",
+      "location": "المستودع - الجهة الشمالية",
+      "status": "سليم",
+      "last_inspection": "2024-05-18",
+      "next_inspection": "2024-06-18"
+    },
+    {
+      "id": "FE-003",
+      "type": "fire_extinguisher",
+      "name": "مطفأة رغوية",
+      "subtype": "رغوية (Foam)",
+      "location": "مبنى الإدارة - الدور الأول",
+      "status": "يحتاج فحص",
+      "last_inspection": "2024-05-15",
+      "next_inspection": "2024-06-15"
+    },
+    {
+      "id": "FA-001",
+      "type": "first_aid",
+      "name": "صندوق إسعافات أولية",
+      "location": "مبنى الإنتاج - مدخل رئيسي",
+      "status": "سليم",
+      "last_inspection": "2024-05-10",
+      "next_inspection": "2024-06-10"
+    },
+    {
+      "id": "EX-001",
+      "type": "emergency_exit",
+      "name": "باب طوارئ رئيسي",
+      "location": "مبنى الإنتاج - الجهة الغربية",
+      "status": "سليم",
+      "last_inspection": "2024-05-20",
+      "next_inspection": "2024-06-20"
+    }
+  ]
+}
