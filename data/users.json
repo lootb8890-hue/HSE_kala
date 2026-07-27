@@ -1,0 +1,62 @@
+{
+  "organization": {
+    "name": "شركة السلامة المتقدمة",
+    "name_en": "SafeCore Industries",
+    "logo": "",
+    "primary_color": "#166534",
+    "secondary_color": "#22c55e",
+    "branches": [
+      "المقر الرئيسي",
+      "فرع المستودعات",
+      "فرع الإنتاج"
+    ],
+    "departments": [
+      "السلامة",
+      "الصيانة",
+      "الإنتاج",
+      "الإدارة"
+    ]
+  },
+  "users": [
+    {
+      "id": "USR-001",
+      "name": "المهندس خالد المنصور",
+      "email": "khalid@safecore.com",
+      "role": "admin",
+      "title": "مفتش أول سلامة",
+      "active": true
+    },
+    {
+      "id": "USR-002",
+      "name": "أحمد علي",
+      "email": "ahmed@safecore.com",
+      "role": "member",
+      "title": "فني سلامة",
+      "active": true
+    },
+    {
+      "id": "USR-003",
+      "name": "سامي الحربي",
+      "email": "sami@safecore.com",
+      "role": "member",
+      "title": "مراقب سلامة",
+      "active": true
+    },
+    {
+      "id": "USR-004",
+      "name": "فهد العتيبي",
+      "email": "fahad@safecore.com",
+      "role": "member",
+      "title": "رئيس قسم الصيانة",
+      "active": true
+    },
+    {
+      "id": "USR-005",
+      "name": "محمد خالد",
+      "email": "mohammed@safecore.com",
+      "role": "member",
+      "title": "مهندس سلامة",
+      "active": true
+    }
+  ]
+}
